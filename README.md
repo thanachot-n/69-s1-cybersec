@@ -1,8 +1,6 @@
-# Cyber Security
+# cyber security
 
 ## My Information
 - Thanachot Najainuek
-- Student ID 056860401XX-X
-## My Expectations for This Course
-- I expect to learn the basics of cybersecurity.
-- I expect to understand common cyber threats and how to prevent them.
+- Student ID : 0568604050xx-x
+- Learned cybersecurity principles and methods for preventing cyberattacks, and gained the ability to apply this knowledge to protect data and use technology   safely in daily lifes.
